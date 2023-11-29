@@ -15,6 +15,7 @@ module.exports = {
             padding: '2rem',
             screens: {
                 '2xl': '1400px',
+
             },
         },
         extend: {
@@ -35,6 +36,7 @@ module.exports = {
             },
             screens: {
                 'xs': '480px',
+
             },
             width: {
                 '420': '420px',
@@ -42,6 +44,7 @@ module.exports = {
             },
             fontFamily: {
                 inter: ['Inter', 'sans-serif'],
+
             },
             keyframes: {
                 'accordion-down': {
